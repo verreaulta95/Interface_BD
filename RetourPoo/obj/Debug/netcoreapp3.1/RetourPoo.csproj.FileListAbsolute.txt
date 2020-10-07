@@ -1,0 +1,17 @@
+D:\Users\1533317\source\repos\RetourPoo\obj\Debug\netcoreapp3.1\RetourPoo.csprojAssemblyReference.cache
+D:\Users\1533317\source\repos\RetourPoo\obj\Debug\netcoreapp3.1\RetourPoo.AssemblyInfoInputs.cache
+D:\Users\1533317\source\repos\RetourPoo\obj\Debug\netcoreapp3.1\RetourPoo.AssemblyInfo.cs
+D:\Users\1533317\source\repos\RetourPoo\obj\Debug\netcoreapp3.1\RetourPoo.csproj.CoreCompileInputs.cache
+M:\visual studio 2019\Projects\RetourPoo\obj\Debug\netcoreapp3.1\RetourPoo.csprojAssemblyReference.cache
+M:\visual studio 2019\Projects\RetourPoo\obj\Debug\netcoreapp3.1\RetourPoo.AssemblyInfoInputs.cache
+M:\visual studio 2019\Projects\RetourPoo\obj\Debug\netcoreapp3.1\RetourPoo.AssemblyInfo.cs
+M:\visual studio 2019\Projects\RetourPoo\obj\Debug\netcoreapp3.1\RetourPoo.csproj.CoreCompileInputs.cache
+M:\visual studio 2019\Projects\RetourPoo\bin\Debug\netcoreapp3.1\RetourPoo.exe
+M:\visual studio 2019\Projects\RetourPoo\bin\Debug\netcoreapp3.1\RetourPoo.deps.json
+M:\visual studio 2019\Projects\RetourPoo\bin\Debug\netcoreapp3.1\RetourPoo.runtimeconfig.json
+M:\visual studio 2019\Projects\RetourPoo\bin\Debug\netcoreapp3.1\RetourPoo.runtimeconfig.dev.json
+M:\visual studio 2019\Projects\RetourPoo\bin\Debug\netcoreapp3.1\RetourPoo.dll
+M:\visual studio 2019\Projects\RetourPoo\bin\Debug\netcoreapp3.1\RetourPoo.pdb
+M:\visual studio 2019\Projects\RetourPoo\obj\Debug\netcoreapp3.1\RetourPoo.dll
+M:\visual studio 2019\Projects\RetourPoo\obj\Debug\netcoreapp3.1\RetourPoo.pdb
+M:\visual studio 2019\Projects\RetourPoo\obj\Debug\netcoreapp3.1\RetourPoo.genruntimeconfig.cache
