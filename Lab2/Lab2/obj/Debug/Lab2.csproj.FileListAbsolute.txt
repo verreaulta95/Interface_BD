@@ -1,0 +1,112 @@
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\AnimalView.g.cs
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\ChatView.g.cs
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\MainWindow.g.cs
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\Menu.g.cs
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\OiseauView.g.cs
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\PoissonView.g.cs
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\UsagerView.g.cs
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\App.g.cs
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.cache
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.lref
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\AnimalView.baml
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\ChatView.baml
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\MainWindow.baml
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\Menu.baml
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\OiseauView.baml
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\PoissonView.baml
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\UsagerView.baml
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.g.resources
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\xavierchamberland\Documents\Cours\2019-2020\Automne 2019\Prog 3\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\bin\Debug\Lab2.exe.config
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\bin\Debug\Lab2.exe
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\bin\Debug\Lab2.pdb
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\AnimalView.g.cs
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\ChatView.g.cs
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\MainWindow.g.cs
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\Menu.g.cs
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\OiseauView.g.cs
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\PoissonView.g.cs
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\UsagerView.g.cs
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\App.g.cs
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.cache
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.lref
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\AnimalView.baml
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\ChatView.baml
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\MainWindow.baml
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\Menu.baml
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\OiseauView.baml
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\PoissonView.baml
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\UsagerView.baml
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.g.resources
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.exe
+F:\CEGEP\Cours\2020-2021\Automne 2020\Prog 3\S4 - Events Lambda Delegate et Controls\S3 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\AnimalView.g.cs
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\ChatView.g.cs
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\MainWindow.g.cs
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\Menu.g.cs
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\OiseauView.g.cs
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\PoissonView.g.cs
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\UsagerView.g.cs
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\App.g.cs
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.cache
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.lref
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\AnimalView.baml
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\ChatView.baml
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\MainWindow.baml
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\Menu.baml
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\OiseauView.baml
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\PoissonView.baml
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\View\UsagerView.baml
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.g.resources
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\xavierchamberland\Documents\CEGEP\Cours\2020-2021\Automne 2020\KYA-Interfaces_et_BD\Version COVID\S8 - Events Lambda Delegate\Lab2\Lab2\obj\Debug\Lab2.pdb
+M:\visual studio 2019\Projects\Lab2\Lab2\bin\Debug\Lab2.exe.config
+M:\visual studio 2019\Projects\Lab2\Lab2\bin\Debug\Lab2.exe
+M:\visual studio 2019\Projects\Lab2\Lab2\bin\Debug\Lab2.pdb
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\View\AnimalView.g.cs
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\View\ChatView.g.cs
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\View\MainWindow.g.cs
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\View\Menu.g.cs
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\View\OiseauView.g.cs
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\View\PoissonView.g.cs
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\View\UsagerView.g.cs
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\App.g.cs
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.cache
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.lref
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\View\AnimalView.baml
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\View\ChatView.baml
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\View\MainWindow.baml
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\View\Menu.baml
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\View\OiseauView.baml
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\View\PoissonView.baml
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\View\UsagerView.baml
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\Lab2.g.resources
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\Lab2.exe
+M:\visual studio 2019\Projects\Lab2\Lab2\obj\Debug\Lab2.pdb
