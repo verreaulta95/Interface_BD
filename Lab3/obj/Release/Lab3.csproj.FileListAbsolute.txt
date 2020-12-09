@@ -1,0 +1,17 @@
+M:\visual studio 2019\Projects\Lab3\bin\Release\Lab3.exe.config
+M:\visual studio 2019\Projects\Lab3\bin\Release\Lab3.exe
+M:\visual studio 2019\Projects\Lab3\bin\Release\Lab3.pdb
+M:\visual studio 2019\Projects\Lab3\obj\Release\Lab3.csprojAssemblyReference.cache
+M:\visual studio 2019\Projects\Lab3\obj\Release\View\Fenetre.g.cs
+M:\visual studio 2019\Projects\Lab3\obj\Release\View\MainWindow.g.cs
+M:\visual studio 2019\Projects\Lab3\obj\Release\App.g.cs
+M:\visual studio 2019\Projects\Lab3\obj\Release\Lab3_MarkupCompile.cache
+M:\visual studio 2019\Projects\Lab3\obj\Release\Lab3_MarkupCompile.lref
+M:\visual studio 2019\Projects\Lab3\obj\Release\View\Fenetre.baml
+M:\visual studio 2019\Projects\Lab3\obj\Release\View\MainWindow.baml
+M:\visual studio 2019\Projects\Lab3\obj\Release\Lab3.g.resources
+M:\visual studio 2019\Projects\Lab3\obj\Release\Lab3.Properties.Resources.resources
+M:\visual studio 2019\Projects\Lab3\obj\Release\Lab3.csproj.GenerateResource.cache
+M:\visual studio 2019\Projects\Lab3\obj\Release\Lab3.csproj.CoreCompileInputs.cache
+M:\visual studio 2019\Projects\Lab3\obj\Release\Lab3.exe
+M:\visual studio 2019\Projects\Lab3\obj\Release\Lab3.pdb
